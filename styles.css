@@ -368,14 +368,14 @@ body {
 .project-card p {
     font-size: 1rem;
     color: #ffffff;
-    margin-bottom: 1.5rem;
-}
+    margin-bottom: 1.5rem; 
+ }
 
 .project-card ul {
     list-style: none;
     text-align: left;
     padding-left: 1rem;
-}
+ }
 
 .project-card ul li {
     position: relative;
